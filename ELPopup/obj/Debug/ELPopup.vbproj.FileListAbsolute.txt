@@ -1,0 +1,3 @@
+F:\Projects\Visual Studio Projects\ELPopup-simple\ELPopup\bin\Debug\ELPopup.exe.config
+F:\Projects\Visual Studio Projects\ELPopup-simple\ELPopup\obj\Debug\Interop.IWshRuntimeLibrary.dll
+F:\Projects\Visual Studio Projects\ELPopup-simple\ELPopup\obj\Debug\ELPopup.vbproj.ResolveComReference.cache
